@@ -3,7 +3,7 @@ astor==0.7.1
 astroid==2.1.0
 autopep8==1.4.3
 backcall==0.1.0
-bleach==3.0.2
+bleach==3.1.1
 colorama==0.4.1
 cycler==0.10.0
 decorator==4.3.0
