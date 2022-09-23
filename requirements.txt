@@ -47,7 +47,7 @@ pickleshare==0.7.5
 ply==3.11
 prometheus-client==0.5.0
 prompt-toolkit==2.0.7
-protobuf==3.6.1
+protobuf==3.18.3
 pycodestyle==2.4.0
 Pygments==2.3.1
 pylint==2.2.2
